@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDriveAuto.Auth", "EdriveAuto.Auth\EDriveAuto.Auth.csproj", "{464B4C55-7998-4580-B435-D5AE0FA521FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDriveAuto.Auth.DTO", "EdriveAuto.Auth.DTO\EDriveAuto.Auth.DTO.csproj", "{C5DAAC00-D9F8-4535-9AFC-9D465B120741}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDriveAuto.Auth.Data", "EdriveAuto.Auth.Data\EDriveAuto.Auth.Data.csproj", "{6AC80A06-578E-4ABB-B97D-1603DDEBF2D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDriveAuto.Auth.Service", "EdriveAuto.Auth.Service\EDriveAuto.Auth.Service.csproj", "{BE0D798B-2FF2-4599-9CB9-2D20CA151B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{464B4C55-7998-4580-B435-D5AE0FA521FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464B4C55-7998-4580-B435-D5AE0FA521FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464B4C55-7998-4580-B435-D5AE0FA521FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464B4C55-7998-4580-B435-D5AE0FA521FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DAAC00-D9F8-4535-9AFC-9D465B120741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DAAC00-D9F8-4535-9AFC-9D465B120741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DAAC00-D9F8-4535-9AFC-9D465B120741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DAAC00-D9F8-4535-9AFC-9D465B120741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC80A06-578E-4ABB-B97D-1603DDEBF2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC80A06-578E-4ABB-B97D-1603DDEBF2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC80A06-578E-4ABB-B97D-1603DDEBF2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC80A06-578E-4ABB-B97D-1603DDEBF2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0D798B-2FF2-4599-9CB9-2D20CA151B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0D798B-2FF2-4599-9CB9-2D20CA151B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0D798B-2FF2-4599-9CB9-2D20CA151B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0D798B-2FF2-4599-9CB9-2D20CA151B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30FAA327-70F6-49CF-91A6-9FA25AB39F4D}
+	EndGlobalSection
+EndGlobal
